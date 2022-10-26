@@ -1,0 +1,40 @@
+h1 {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    position: relative;
+    z-index: 10;
+    display: center;
+    background-image: "pattern.jpeg";
+}
+
+header {
+    padding: 0px 5px;
+}
+
+strong {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+
+h3 {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+h3.brushes {
+    background-color: mediumseagreen;
+}
+
+h3.frames {
+    background-color: lightcoral;
+}
+
+h3.paint {
+    background-color: skyblue;
+}
+
